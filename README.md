@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delaworla&label=Profile%20views&color=0e75b6&style=flat" alt="delaworla" /> </p>
 
-- 🌱 I’m currently learning **FastAPI, HTML, CSS & Javascript**
+- 🌱 I’m currently learning **Python, HTML, CSS & Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
